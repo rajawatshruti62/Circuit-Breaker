@@ -57,7 +57,8 @@ This project implements a circuit breaker using an ESP8266 (NodeMCU) microcontro
 
 ## Circuit Diagram
 
-![Circuit Diagram](Circuit Diagram.jpg)
+![Circuit Diagram](https://github.com/rajawatshruti62/Circuit-Breaker/blob/27c68d1a932c4059dd9e4d9b1de7db758c96fcd0/Circuit%20Diagram.jpg)
+
 
 ## Acknowledgements
 
